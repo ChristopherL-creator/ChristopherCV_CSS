@@ -88,12 +88,13 @@ html, body{
     background-color: rgb(47, 47, 153); 
     width: 49%; 
     display: inline-block; 
-    height: 500px;
+    height: 500px;  
     
 }  
 
 .bgtext{ 
-    
+    background-color: rgb(47, 47, 153); 
+    display: inline-block; 
 }
 
 .skills{ 
