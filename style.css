@@ -62,12 +62,13 @@ html, body{
 .introphoto{ 
     display: inline-block; 
     background-color: rgba(0, 128, 0, 0); 
+    background: url(./assets/Immagine\ 2022-04-11\ 180153.jpg);
     width: 50vw;  
     height: 850px;  
     overflow: hidden;
 }
 
-.propic{ 
+/* .propic{ 
     display: inline-block;  
     width: 50vw; 
     height: 850px;
@@ -75,7 +76,7 @@ html, body{
     background-size: cover; 
     padding-right: 0%; 
     overflow: hidden;
-}
+} */
 
 .aboutme{
     background-color: rgb(255, 255, 255); 
